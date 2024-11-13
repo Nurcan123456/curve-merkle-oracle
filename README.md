@@ -26,7 +26,7 @@ The oracle works by generating and verifying Merkle Patricia proofs of the follo
   * `admin_balances[1]`
 
 * stETH contract account and the following slots from its storage trie:
-  * `shares[0xDC24316b9AE028F1497c275EB9192a3Ea0f67022]`
+  * `shares[0xDC24316b9AE028F1497c275EB9192a3Ea0f67022]`0xDC24316b9AE028F1497c275EB9192a3Ea0f67022
   * `keccak256("lido.StETH.totalShares")`
   * `keccak256("lido.Lido.beaconBalance")`
   * `keccak256("lido.Lido.bufferedEther")`
